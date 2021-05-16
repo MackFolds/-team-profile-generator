@@ -9,7 +9,7 @@ test('tests engineer object creation', () => {
 
     expect(engineer.name).toBe('Mack');
     expect(engineer.id).toBe(321);
-    expect(engineer.email).toBe('email@email.com');
+    expect(engineer.email).toBe('email@email.net');
 })
 
 test("get engineer's role", () => {
