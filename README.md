@@ -16,7 +16,8 @@
   [Basic walkthrough](https://youtu.be/4naszaObCnU)
 
   ![generated html](/src/images/Team-gen.png) 
-  ![Prompts for user](/src/images/Team-gen-prompts.png) 
+  
+  ![Prompts for user](/src/images/team-gen-prompts.png) 
 
   ## Languages
   JavaScript<br>CSS<br>ES6<br>Bootstrap
