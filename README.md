@@ -14,7 +14,7 @@
   User must have Node.js Installed in order to use the application 
   ## Usage
   [Basic walkthrough](https://youtu.be/4naszaObCnU)
-  ![generated html](https://github.com/mackFolds/team-profile-generator/blob/main/Team-gen.png?raw=true)
+  ![generated html](src\images\Team-gen.png)
   ## Languages
   JavaScript<br>CSS<br>ES6<br>Bootstrap
   ## Contributing
