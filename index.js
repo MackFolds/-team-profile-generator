@@ -9,7 +9,6 @@ const {writeFile, copyFile} = require('./utils/generate-site');
 
 const employeeArr = [];
 
-
 // create array of questions for employees
 const questions = [
     {
